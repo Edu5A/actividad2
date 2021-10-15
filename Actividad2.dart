@@ -1,4 +1,4 @@
-//Integraante:Muñoz Hernández Eduardo
+//Integrante:Muñoz Hernández Eduardo
 import 'package:flutter/material.dart';
 
 void main() {
